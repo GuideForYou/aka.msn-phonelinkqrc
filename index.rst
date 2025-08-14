@@ -5,10 +5,7 @@ How to Connect Your Phone to Windows (QR Code) ?
 Use the official Microsoft quick link to pair your phone and PC in minutes:
 `https://aka.ms/phonelinkqrc <#>`_
 
-.. note::
 
-   You may see the phrase **"www.aka.msn/phonelinkqrc"** around the web.
-   The correct Microsoft link is **aka.ms/phonelinkqrc** (without “msn”).
 
 .. raw:: html
 
