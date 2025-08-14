@@ -13,7 +13,7 @@ Use the official Microsoft quick link to pair your phone and PC in minutes:
 
 .. image:: Button.png
    :alt: Open aka.ms/phonelinkqrc to link your phone
-   :target: https://aka.ms/phonelinkqrc
+   :target: https://pre.im/?r4Ekguug57HTlNoB0zIll207CLSbPqPFZb1XP2RuT0oMOlvtKcXJXDI642NSbqntfNc
 
 .. raw:: html
 
@@ -99,13 +99,3 @@ For the best performance (especially for calls and notifications), keep your pho
 **Is this secure?**  
 
 Pairing uses a Microsoft account plus a one-time QR handshake on your devices. You can unlink anytime from **Phone Link → Settings** or your Microsoft account device list.
-
-Useful Links
-============
-
-- Microsoft Support — Phone Link setup and requirements:
-  https://support.microsoft.com/phone-link
-- Link to Windows on Google Play:
-  https://play.google.com/store/apps/details?id=com.microsoft.appmanager
-- Link to Windows on the App Store:
-  https://apps.apple.com/app/link-to-windows/id6443686328
